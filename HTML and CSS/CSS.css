@@ -1,0 +1,277 @@
+h1
+{
+  padding: 15px;
+  background-size: contain;
+  color: white; 
+  text-align: center;
+  font-family: Brandon Grotesque;
+  font-weight: bold; 
+  font-size: 60pt;
+  max-height: 20%;
+}
+
+
+p {
+  color: white;
+  background-size: contain;
+  font-family: Brandon Grotesque;
+  font-weight: bold;
+  text-align: center;
+  font-size: 20pt;
+  position: absolute;
+  top: 27%;
+  left: 42%;
+}
+
+#pagebody { position: inherit; width: 100%; } 
+#pagebody-inner { position: inherit; width: 100%; }
+
+#alpha, #beta, #gamma, #delta {
+    display: inline;
+    position: inherit; 
+    float: left;
+    min-height: 1px;
+}
+
+#centernav {
+  width: 100%;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+
+#main li ul li {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#dropnav 
+{height:90px; background:white;} 
+
+#dropnav ul
+{margin:0px; padding: 25px;}
+
+#dropnav ul li
+{display:inline; float:left; list-style:none; position: relative; height:35px; margin-left: 15px; width: 150px;} 
+
+#dropnav li a
+{color:black; text-decoration:none;}
+
+#dropnav li a:hover
+{color:#5cd6d6; text-decoration:none;}
+
+#dropnav li ul
+{margin:0px; padding:5px; display:none; position:absolute; left:0px; z-index: 99; top:40px; background-color:#5cd6d6;} 
+
+#dropnav li:hover ul
+{display:block; width:250px;}
+
+#dropnav li li
+{list-style:none; display:list-item; margin-bottom:10px; margin-top:10px; font-size: 12pt;}
+
+#dropnav li li a
+{color:white; text-decoration:none;} 
+
+#dropnav li li a:hover
+{color:black; text-decoration:none;}
+
+li#main  
+{padding-top: 3px; padding-left:0;}
+
+  
+  body{
+
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial; 
+    background: url(https://pixelsharing.files.wordpress.com/2010/11/773-tileable-and-seamless-pattern.jpg) repeat fixed;
+}
+
+#container {
+  width: 100%; 
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.image1 {
+     background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: contain;
+    border-radius: 5%;
+    max-width: 22%;
+    max-height:23%;
+    min-height: 15%;
+    min-height:15%;
+    border-style: solid;
+    border-color: white;
+    position: absolute;
+    top: 30%;
+    left:58%;
+}
+
+
+.image4 {
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: contain;
+    border-radius: 50%;
+    max-width: 30%;
+    max-height: 30%;
+    min-height:15%;
+    min-width:15%;
+    border-style: solid;
+    border-color: white;
+    position:absolute;
+    top: 43%;
+    left: 43%;
+}
+
+
+.image3 {
+    background-repeat: no-repeat;
+    background-position: 50%;
+	  background-size: contain;
+    border-radius: 50%;
+    max-width: 25%;
+    max-height: 25%;
+    min-height: 15%;
+    min-height:15%;
+    border-style: solid;
+    border-color: white;
+    position: absolute;
+    top: 43%;
+    left: 64%;
+    
+}
+    
+  .image5 {
+     background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: contain;
+    border-radius: 5%;
+    max-width: 22%;
+    max-height:23%;
+    min-height: 15%;
+    min-height:15%;
+    border-style: solid;
+    border-color: white;
+    position: absolute;
+    top: 30%;
+    left:58%;
+}
+
+.image6 {
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: contain;
+    border-radius: 5%;
+    max-width: 22%;
+    max-height:23%;
+    min-height: 15%;
+    min-height:15%;
+    border-style: solid;
+    border-color: white;
+    position: absolute;
+    top: 29%;
+    left:50%;}
+    
+.firstbody {
+  text-align: left; 
+  position: absolute;
+  left: 25%;
+  right: 55%;
+  top: 28%;
+  font-family: Arial;
+  font-size: 13pt; 
+}
+
+.block {
+ text-align: left; 
+  position: absolute;
+  left: 30%;
+  right: 45%;
+  top: 28%;
+  font-family: Arial;
+  font-size: 13pt;
+}
+
+.courses {
+  text-align: left; 
+  position: absolute;
+  left: 25%;
+  right: 55%;
+  top: 28%;
+  font-family: Arial;
+  font-size: 13pt; 
+}
+
+.aei {
+  text-align: left; 
+  position: absolute;
+  left: 25%;
+  right: 45%;
+  top: 29%;
+  font-family: Arial;
+  font-size: 13pt; 
+}
+
+.ala {
+  text-align: left; 
+  position: absolute;
+  left: 25%;
+  right: 45%;
+  top: 29%;
+  font-family: Arial;
+  font-size: 13pt; 
+  
+}
+
+.catholic {
+ text-align: left; 
+  position: absolute;
+  left: 25%;
+  right: 45%;
+  top: 29%;
+  font-family: Arial;
+  font-size: 13pt; 
+}
+
+.link {
+color: white;
+}
+
+.link:hover { 
+color:#5cd6d6;}
+}
+
+.link:visited { 
+color:gray;
+}
+
+.charities{
+  position:absolute;
+  left: 24%;
+}
+
+.aeih1 {
+  position: absolute;
+  left:24%;
+}
+
+.aboutheader {
+  position:absolute;
+  left:28%;
+}
+.mainheading {
+  position: absolute;
+  left:34%;
+  top: 30%;
+  font-size: 65pt;
+}  
+
+.subtitle {
+  position: absolute;
+  left: 43%;
+  top: 50%;
+ }
